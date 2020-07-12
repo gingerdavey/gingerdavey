@@ -6,3 +6,6 @@ before moving into my current position at Limely.
 I'm a front-end developer and mainly develop Wordpress sites. With my current role I am also learning to develop Magento sites. In my spare time I am 
 trying to develop my skills further by doing the courses on freecodecamp.org and also laracasts. Trying to further my knowledge of languages I use everday,
 as well as trying to pick up newer frameworks like React and Vue. I'm also interested in learning Laravel.
+
+
+![Twitter Follow](https://img.shields.io/twitter/follow/GingerDavey30?style=social)
