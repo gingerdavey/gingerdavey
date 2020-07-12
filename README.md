@@ -1,4 +1,4 @@
-Robbie Davey - Web Developer @ Limely, Chester.
+# Robbie Davey - Web Developer @ [Limely](https://www.limely.co.uk/), Chester
 
 Graduated from Aberystwyth University in June 2017 with a degree in Computer Science. I then got a job as a junior developer at Bella Design, Knutsford. I worked there for 2 years
 before moving into my current position at Limely.
